@@ -1,0 +1,11 @@
+
+body{
+    background:rgb(122, 131, 122);
+}
+.wrapper{
+    height: 100vh;
+    max-width: 650px;
+    margin: auto;
+
+
+}
